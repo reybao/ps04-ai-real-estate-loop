@@ -1,0 +1,14 @@
+{
+  "review_id": "ee80e2c204bab82782c736653d153d1a8cf1e413d3f81e5c10e552de044ca270",
+  "passed": true,
+  "assessed_at": "2026-10-10T18:37:25Z",
+  "as_of_date": "2026-10-10",
+  "evidence_item_count": 8,
+  "issues": [
+    {
+      "artifact": "human-review",
+      "severity": "warning",
+      "message": "A human must assess interpretation, factual framing, quotations, visuals, voice/avatar consent, and publication readiness."
+    }
+  ]
+}

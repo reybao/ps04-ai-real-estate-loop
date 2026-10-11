@@ -1,0 +1,71 @@
+{
+  "run_id": "20261010T152011Z-e9d7cb",
+  "status": "ready_for_production",
+  "as_of_date": "2026-10-10",
+  "previous_run_id": "20261009T165149Z-afdf19",
+  "counts": {
+    "discovered": 37,
+    "duplicate_observations": 0,
+    "extracted": 36,
+    "new": 9,
+    "changed": 16,
+    "unchanged": 11,
+    "eligible": 38,
+    "excluded": 5,
+    "accepted": 13,
+    "rejected": 22,
+    "deferred": 3,
+    "articles": 3,
+    "video_scripts": 3
+  },
+  "source_coverage": {
+    "basis": "eligible_items",
+    "kinds": {
+      "feed": 27,
+      "podcast": 3,
+      "youtube": 8
+    },
+    "independent_publishers": [
+      "ai-growth-partners",
+      "commercial-observer",
+      "commercial-real-estate-show",
+      "cre-collaborative",
+      "data-center-frontier",
+      "informa-techtarget",
+      "kite-and-key-media",
+      "overwatch-mission-critical",
+      "plot",
+      "propmodo",
+      "suhail-tayyeb"
+    ]
+  },
+  "youtube_media": {
+    "video_retained": 11,
+    "audio_retained": 2,
+    "transcript_only": 0
+  },
+  "failed_stages": [],
+  "incomplete_stages": [
+    "collect-sources-workflow",
+    "extract-content"
+  ],
+  "elapsed_seconds": 11834,
+  "tools_or_models": [
+    "bash",
+    "ffmpeg",
+    "gpt-6-luna",
+    "local:openai-whisper",
+    "openai",
+    "python3",
+    "sqlite3",
+    "urllib",
+    "xml.etree",
+    "yt-dlp"
+  ],
+  "cost_usd_known": 0.0,
+  "has_unknown_costs": true,
+  "remaining_manual_actions": [
+    "Produce the three videos in Google Vids or HeyGen.",
+    "Publish the articles and videos, then fill publication_links.json."
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "stage": "run-package",
+  "status": "completed",
+  "input_count": null,
+  "output_count": null,
+  "started_at": "2026-10-10T18:37:25Z",
+  "finished_at": "2026-10-10T18:37:25Z",
+  "tools_or_models": [
+    "bash"
+  ],
+  "cost_usd": 0.0,
+  "cost_is_estimate": false,
+  "errors": []
+}

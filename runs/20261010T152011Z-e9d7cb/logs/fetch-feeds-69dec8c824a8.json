@@ -1,0 +1,16 @@
+{
+  "stage": "fetch-feeds",
+  "status": "completed",
+  "input_count": 4,
+  "output_count": 20,
+  "started_at": "2026-10-10T15:20:11Z",
+  "finished_at": "2026-10-10T15:20:13Z",
+  "tools_or_models": [
+    "python3",
+    "urllib",
+    "xml.etree"
+  ],
+  "cost_usd": 0.0,
+  "cost_is_estimate": false,
+  "errors": []
+}

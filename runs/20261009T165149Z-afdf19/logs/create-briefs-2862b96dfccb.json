@@ -1,0 +1,14 @@
+{
+  "stage": "create-briefs",
+  "status": "completed",
+  "input_count": 29,
+  "output_count": 3,
+  "started_at": "2026-10-09T17:00:03Z",
+  "finished_at": "2026-10-09T17:00:03Z",
+  "tools_or_models": [
+    "gpt-6-luna"
+  ],
+  "cost_usd": null,
+  "cost_is_estimate": false,
+  "errors": []
+}

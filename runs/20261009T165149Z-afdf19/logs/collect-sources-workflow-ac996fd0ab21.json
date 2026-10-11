@@ -1,0 +1,16 @@
+{
+  "stage": "collect-sources-workflow",
+  "status": "incomplete",
+  "input_count": 37,
+  "output_count": 29,
+  "started_at": "2026-10-09T16:51:49Z",
+  "finished_at": "2026-10-09T16:52:18Z",
+  "tools_or_models": [
+    "bash"
+  ],
+  "cost_usd": 0.0,
+  "cost_is_estimate": false,
+  "errors": [
+    "content extraction exited 1"
+  ]
+}

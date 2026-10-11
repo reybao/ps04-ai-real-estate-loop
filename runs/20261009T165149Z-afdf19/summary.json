@@ -1,0 +1,71 @@
+{
+  "run_id": "20261009T165149Z-afdf19",
+  "status": "awaiting_review",
+  "as_of_date": "2026-10-09",
+  "previous_run_id": "20261009T164007Z-9e49d9",
+  "counts": {
+    "discovered": 37,
+    "duplicate_observations": 0,
+    "extracted": 33,
+    "new": 6,
+    "changed": 1,
+    "unchanged": 26,
+    "eligible": 29,
+    "excluded": 5,
+    "accepted": 11,
+    "rejected": 16,
+    "deferred": 2,
+    "articles": 3,
+    "video_scripts": 3
+  },
+  "source_coverage": {
+    "kinds": {
+      "feed": 20,
+      "youtube": 14,
+      "podcast": 3
+    },
+    "independent_publishers": [
+      "ai-growth-partners",
+      "commercial-observer",
+      "commercial-real-estate-show",
+      "cre-collaborative",
+      "data-center-frontier",
+      "informa-techtarget",
+      "kite-and-key-media",
+      "overwatch-mission-critical",
+      "plot",
+      "propmodo",
+      "suhail-tayyeb",
+      "us-proptech-council"
+    ]
+  },
+  "youtube_media": {
+    "video_retained": 0,
+    "transcript_only": 10
+  },
+  "failed_stages": [],
+  "incomplete_stages": [
+    "collect-sources-workflow",
+    "extract-content"
+  ],
+  "elapsed_seconds": 11302,
+  "tools_or_models": [
+    "bash",
+    "gpt-6-luna",
+    "openai",
+    "python3",
+    "sqlite3",
+    "urllib",
+    "xml.etree",
+    "yt-dlp"
+  ],
+  "cost_usd_known": 0.0,
+  "has_unknown_costs": true,
+  "remaining_manual_actions": [
+    "Inspect the logged collection/extraction gaps; only eligible retained evidence was used in the drafts.",
+    "Review the actual evidence, decisions, briefs, article drafts, and video scripts.",
+    "Record corrections and create approval.json with the current review_id.",
+    "Run bash run.sh --package runs/20261009T165149Z-afdf19 after approval.",
+    "YouTube items with captions only lack a retained video/audio download; repair or disclose this coverage gap."
+  ]
+}

@@ -1,0 +1,8 @@
+[
+  {
+    "item_id": "youtube:Lpvf7fD2mvE",
+    "source_id": "us-proptech-youtube",
+    "kind": "youtube",
+    "error": "RuntimeError: YouTube media download failed (video: ERROR: [youtube] Lpvf7fD2mvE: This live event will begin in a few moments.; alternate video: ERROR: [youtube] Lpvf7fD2mvE: This live event will begin in a few moments.; audio: ERROR: [youtube] Lpvf7fD2mvE: This live event will begin in a few moments.); captions unavailable: ERROR: [youtube] Lpvf7fD2mvE: This live event will begin in a few moments."
+  }
+]

@@ -1,0 +1,14 @@
+{
+  "stage": "select-items",
+  "status": "completed",
+  "input_count": 38,
+  "output_count": 38,
+  "started_at": "2026-10-10T17:32:05Z",
+  "finished_at": "2026-10-10T17:32:05Z",
+  "tools_or_models": [
+    "gpt-6-luna"
+  ],
+  "cost_usd": null,
+  "cost_is_estimate": false,
+  "errors": []
+}

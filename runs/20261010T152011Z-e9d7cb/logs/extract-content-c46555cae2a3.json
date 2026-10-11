@@ -1,0 +1,20 @@
+{
+  "stage": "extract-content",
+  "status": "incomplete",
+  "input_count": 37,
+  "output_count": 36,
+  "started_at": "2026-10-10T15:20:16Z",
+  "finished_at": "2026-10-10T17:10:40Z",
+  "tools_or_models": [
+    "ffmpeg",
+    "local:openai-whisper",
+    "python3",
+    "urllib",
+    "yt-dlp"
+  ],
+  "cost_usd": 0.0,
+  "cost_is_estimate": false,
+  "errors": [
+    "youtube:Lpvf7fD2mvE: RuntimeError: YouTube media download failed (video: ERROR: [youtube] Lpvf7fD2mvE: This live event will begin in a few moments.; alternate video: ERROR: [youtube] Lpvf7fD2mvE: This live event will begin in a few moments.; audio: ERROR: [youtube] Lpvf7fD2mvE: This live event will begin in a few moments.); captions unavailable: ERROR: [youtube] Lpvf7fD2mvE: This live event will begin in a few moments."
+  ]
+}

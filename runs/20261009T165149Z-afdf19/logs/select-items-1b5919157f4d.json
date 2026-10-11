@@ -1,0 +1,14 @@
+{
+  "stage": "select-items",
+  "status": "completed",
+  "input_count": 29,
+  "output_count": 29,
+  "started_at": "2026-10-09T16:53:58Z",
+  "finished_at": "2026-10-09T16:53:59Z",
+  "tools_or_models": [
+    "openai"
+  ],
+  "cost_usd": null,
+  "cost_is_estimate": false,
+  "errors": []
+}

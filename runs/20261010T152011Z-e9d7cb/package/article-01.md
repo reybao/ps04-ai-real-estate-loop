@@ -1,0 +1,31 @@
+# From AI Pilots to Property Operations: The Hard Part Is Making It Work
+
+**As of October 10, 2026**
+
+AI adoption in commercial real estate can look rapid on a dashboard and still leave teams asking whether it has improved the work. A recent Propmodo article, summarizing JLL survey findings, reports that the share of CRE teams piloting AI rose from under 5% to 92% in three years. Yet it says only 5% of organizations reported achieving most of their program goals. Those figures point to an important distinction: trying AI is not the same as making it useful in day-to-day property operations. [01-c1] [01-c3]
+
+That gap matters because real estate work is full of records and handoffs. A lease, for example, is a signed agreement containing details that staff may need to compare with information stored in property or accounting systems. A tool that reads documents or flags differences could help with that task—but only if the underlying records are dependable and someone can verify what the tool found.
+
+The survey summary offers a reason to look beyond the AI application itself. Propmodo reports that more than 60% of companies must address basic technology issues, such as duplicated functionality or dormant systems, before fully leveraging AI; it also reports that 81% have at least three existing systems not generating expected results. These are reported survey findings, not independently verified measurements in the material available here. Still, they suggest that an AI pilot may be layered onto an already fragmented technology environment. [01-c1]
+
+In that setting, a useful first step is to define the job before choosing the tool. What task is being improved? What does the current process produce, and how will a team judge whether the new workflow is better? A baseline—the starting point against which a change is compared—makes it possible to assess a pilot rather than simply count its users or features. Property data also needs to be usable: if key information is duplicated, missing, or inconsistent across systems, an AI tool may inherit those problems instead of fixing them. These are practical implications of the reported technology hurdles, not outcomes established by the survey excerpt.
+
+A short example from a Plot recording makes the operational question more concrete. One speaker describes a client-specific AI agent, using Gemini, that looks at signed leases as part of a lease-audit process. The speaker characterizes it as bespoke—built for that client to start—rather than describing a general-purpose tool ready for every property company. [01-c2]
+
+A lease audit is a check of lease documents and related information. In a workflow like the one described, the potential value is not simply that a model can process text. The agent would need to examine the relevant documents and support a comparison with converted property data: information extracted from source documents and entered into a system. Staff would then need a way to review its findings and resolve discrepancies. The recording excerpt does not establish how accurately the agent performs, how widely it was deployed, whether it saved time or money, or what outcomes it achieved. It illustrates a specific use case, not proof that lease-audit agents work broadly. [01-c2] [01-c3]
+
+This is where validation becomes part of the workflow, not an afterthought. A team could ask whether the agent’s flagged items are correct and whether staff can trace them back to signed lease language. The available evidence does not tell us whether the speaker’s project used those checks or what its results were. The point is narrower: without some way to check outputs and compare them with a defined operational goal, a compelling demonstration is not yet evidence of realized value.
+
+There is also a broader infrastructure constraint. In a keynote, a speaker argues that demand for computing can emerge extraordinarily quickly, while power must be generated somewhere. That is an attributed view, not independent case evidence about a particular property or project. It nevertheless offers a useful caution: software demand and physical capacity do not necessarily move at the same pace. [01-c4]
+
+For CRE teams, that observation is a reminder not to treat AI adoption as only a software decision. The practical ability to use AI also depends on the systems, data, and infrastructure available to support the work. But the evidence here does not compare infrastructure constraints with the causes of failed pilots, nor does it establish that power availability is limiting the lease-audit example.
+
+The strongest counterpoint is that the evidence is incomplete. The JLL figures are reported through a Propmodo summary; the underlying report and survey methods are not included. The Plot excerpt does not establish the speaker’s role or the agent’s performance, and the keynote offers analysis rather than a measured case study. So the figures and examples should not be treated as a comprehensive verdict on CRE AI.
+
+What they do support is a more grounded test of progress: identify the workflow, establish a baseline, make the property data dependable, and require a way to check outputs. Pilot counts can indicate interest. They cannot, by themselves, show that a team has achieved its goals. [01-c3]
+
+### Source notes
+
+- Propmodo, “Why Over 90% of Real Estate AI Pilots Fall Short of Their Goals,” published October 9, 2026. [Source](https://propmodo.com/why-over-90-of-real-estate-ai-pilots-fall-short-of-their-goals/). Evidence version: `797ad9dbb7bfc8ae58af9ad8e222d3058a350583f055d57e2b6c3c8e4684c9d0`.
+- PLOT, “PLOT Live,” recording published October 10, 2026; cited segment s00404. [Recording](https://www.youtube.com/watch?v=xArv6j-WM5w). Evidence version: `f28abe3357c85a34daf436402de09e35948fdbc95c38abd04105900c4c556e11`.
+- Suhail Tayyeb, “The AI Infrastructure Shock: Why Compute, Power and Capital Are Out of Sync | Live Keynote,” published October 9, 2026; cited segments s00025–s00026. [Episode](https://podcasters.spotify.com/pod/show/dirttodata/episodes/The-AI-Infrastructure-Shock-Why-Compute--Power-and-Capital-Are-Out-of-Sync--Live-Keynote-e3q8093). Evidence version: `c5aaea56db720de3f0244bd844d2790a728557c15a2c8abb258ba3f8142ee4a9`.

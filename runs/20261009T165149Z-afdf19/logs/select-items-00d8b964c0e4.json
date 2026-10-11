@@ -1,0 +1,16 @@
+{
+  "stage": "select-items",
+  "status": "failed",
+  "input_count": 29,
+  "output_count": null,
+  "started_at": "2026-10-09T16:52:18Z",
+  "finished_at": "2026-10-09T16:53:20Z",
+  "tools_or_models": [
+    "openai"
+  ],
+  "cost_usd": null,
+  "cost_is_estimate": false,
+  "errors": [
+    "editorial decisions are not in the same item/version order as input "
+  ]
+}

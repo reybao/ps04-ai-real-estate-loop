@@ -1,0 +1,24 @@
+{
+  "review_id": "ee80e2c204bab82782c736653d153d1a8cf1e413d3f81e5c10e552de044ca270",
+  "decision": "approve",
+  "reviewer": "reybao",
+  "reviewed_at": "2026-10-10T18:37:25Z",
+  "notes": "Human reviewer confirmed the three articles and paired video scripts for production handoff; see SUBMISSION.md for detailed editorial judgments and limitations.",
+  "piece_reviews": [
+    {
+      "piece_id": "01",
+      "decision": "approve",
+      "reviewed_at": "2026-10-10T18:37:16Z"
+    },
+    {
+      "piece_id": "02",
+      "decision": "approve",
+      "reviewed_at": "2026-10-10T18:37:23Z"
+    },
+    {
+      "piece_id": "03",
+      "decision": "approve",
+      "reviewed_at": "2026-10-10T18:37:25Z"
+    }
+  ]
+}

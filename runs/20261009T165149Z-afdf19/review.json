@@ -1,0 +1,19 @@
+{
+  "review_id": "ee859cc4020ed83596e14398de90c7e4168a5ccdf900bcd2beeeeee1986a3ae2",
+  "passed": true,
+  "assessed_at": "2026-10-09T20:02:16Z",
+  "as_of_date": "2026-10-09",
+  "evidence_item_count": 9,
+  "issues": [
+    {
+      "artifact": "youtube-media",
+      "severity": "warning",
+      "message": "3 cited YouTube item(s) have timestamped captions but no retained video/audio file; disclose or repair the media-download gap."
+    },
+    {
+      "artifact": "human-review",
+      "severity": "warning",
+      "message": "A human must assess interpretation, factual framing, quotations, visuals, voice/avatar consent, and publication readiness."
+    }
+  ]
+}

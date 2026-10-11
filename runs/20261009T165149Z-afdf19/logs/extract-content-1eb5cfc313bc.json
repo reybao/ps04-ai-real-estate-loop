@@ -1,0 +1,18 @@
+{
+  "stage": "extract-content",
+  "status": "incomplete",
+  "input_count": 37,
+  "output_count": 33,
+  "started_at": "2026-10-09T16:51:53Z",
+  "finished_at": "2026-10-09T16:52:17Z",
+  "tools_or_models": [
+    "python3",
+    "urllib",
+    "yt-dlp"
+  ],
+  "cost_usd": 0.0,
+  "cost_is_estimate": false,
+  "errors": [
+    "youtube:Lpvf7fD2mvE: RuntimeError: YouTube subtitles unavailable: ERROR: [youtube] Lpvf7fD2mvE: This live event will begin in a few moments.; youtube:xArv6j-WM5w: RuntimeError: YouTube subtitles unavailable: [info] There are no subtitles for the requested languages; youtube:zbvdlcDDsxs: RuntimeError: YouTube subtitles unavailable: ERROR: Unable to download video subtitles for 'en': HTTP Error 429: Too Many Requests; youtube:wQqDV3UNYFk: RuntimeError: YouTube subtitles unavailable: [info] There are no subtitles for the requested languages"
+  ]
+}

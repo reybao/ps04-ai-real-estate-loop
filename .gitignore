@@ -1,0 +1,31 @@
+.DS_Store
+__pycache__/
+*.py[cod]
+.env
+.env.*
+!.env.example
+
+# Runtime artifacts: retain only the two inspected live runs and the labeled
+# policy/media replays needed for grading; omit model payloads and rough cuts.
+runs/*
+!runs/20261009T165149Z-afdf19/
+!runs/20261010T152011Z-e9d7cb/
+!runs/replays/
+runs/replays/*
+!runs/replays/20261009-policy-v2/
+!runs/replays/youtube-media-check-20261009/
+runs/**/model/
+runs/**/production/
+runs/**/approval_history/
+runs/**/.*
+
+# The SQLite evidence index is small and documents stable IDs/versions.
+data/evidence/*
+!data/evidence/store.sqlite3
+data/media/
+data/assets/
+data/models/
+
+# Local build and study-guide artifacts
+tmp/
+output/

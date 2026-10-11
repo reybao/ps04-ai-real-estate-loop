@@ -1,0 +1,16 @@
+{
+  "stage": "fetch-youtube",
+  "status": "completed",
+  "input_count": 6,
+  "output_count": 14,
+  "started_at": "2026-10-09T16:51:51Z",
+  "finished_at": "2026-10-09T16:51:52Z",
+  "tools_or_models": [
+    "python3",
+    "urllib",
+    "xml.etree"
+  ],
+  "cost_usd": 0.0,
+  "cost_is_estimate": false,
+  "errors": []
+}

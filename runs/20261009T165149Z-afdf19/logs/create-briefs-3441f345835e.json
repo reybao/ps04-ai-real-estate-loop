@@ -1,0 +1,16 @@
+{
+  "stage": "create-briefs",
+  "status": "failed",
+  "input_count": 29,
+  "output_count": null,
+  "started_at": "2026-10-09T16:55:07Z",
+  "finished_at": "2026-10-09T16:55:37Z",
+  "tools_or_models": [
+    "openai"
+  ],
+  "cost_usd": null,
+  "cost_is_estimate": false,
+  "errors": [
+    "brief creation or evidence validation failed"
+  ]
+}

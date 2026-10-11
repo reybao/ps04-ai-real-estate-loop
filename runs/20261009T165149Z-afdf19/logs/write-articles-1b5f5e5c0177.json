@@ -1,0 +1,16 @@
+{
+  "stage": "write-articles",
+  "status": "failed",
+  "input_count": 3,
+  "output_count": null,
+  "started_at": "2026-10-09T17:00:31Z",
+  "finished_at": "2026-10-09T17:00:45Z",
+  "tools_or_models": [
+    "openai"
+  ],
+  "cost_usd": null,
+  "cost_is_estimate": false,
+  "errors": [
+    "article generation failed"
+  ]
+}

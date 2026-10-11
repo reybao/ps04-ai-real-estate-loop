@@ -1,0 +1,17 @@
+{
+  "stage": "create-series-workflow",
+  "status": "failed",
+  "input_count": 38,
+  "output_count": null,
+  "started_at": "2026-10-10T17:10:41Z",
+  "finished_at": "2026-10-10T17:12:43Z",
+  "tools_or_models": [
+    "bash",
+    "openai"
+  ],
+  "cost_usd": null,
+  "cost_is_estimate": false,
+  "errors": [
+    "brief creation or evidence validation failed"
+  ]
+}

@@ -1,1 +1,138 @@
-[]
+[
+  {
+    "source_id": "propmodo-feed",
+    "publisher_id": "propmodo",
+    "kind": "feed",
+    "url": "https://propmodo.com/feed/",
+    "authority_tier": "B",
+    "perspective": "commercial real estate technology and operations",
+    "independence_note": "Independent CRE technology publication; vendor claims still require claim-specific corroboration.",
+    "max_items": 5
+  },
+  {
+    "source_id": "commercial-observer-feed",
+    "publisher_id": "commercial-observer",
+    "kind": "feed",
+    "url": "https://commercialobserver.com/feed/",
+    "authority_tier": "B",
+    "perspective": "commercial real estate transactions, finance, development, and policy",
+    "independence_note": "Editorial publication independent from the project companies it covers.",
+    "max_items": 5
+  },
+  {
+    "source_id": "data-center-knowledge-feed",
+    "publisher_id": "informa-techtarget",
+    "kind": "feed",
+    "url": "https://www.datacenterknowledge.com/rss.xml",
+    "authority_tier": "B",
+    "perspective": "data center construction, operations, power, and markets",
+    "independence_note": "Shares the Informa TechTarget publisher group with other company properties and counts once for publisher independence.",
+    "max_items": 5
+  },
+  {
+    "source_id": "utility-dive-feed",
+    "publisher_id": "informa-techtarget",
+    "kind": "feed",
+    "url": "https://www.utilitydive.com/feeds/news/",
+    "authority_tier": "B",
+    "perspective": "utilities, grids, regulation, rates, and large-load policy",
+    "independence_note": "Shares the Informa TechTarget publisher group with Data Center Knowledge and counts once for publisher independence.",
+    "max_items": 5
+  },
+  {
+    "source_id": "data-center-frontier-youtube",
+    "publisher_id": "data-center-frontier",
+    "kind": "youtube",
+    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCOx3aQnvIz9S3hlLgYPgH7Q",
+    "channel_url": "https://www.youtube.com/@DataCenterFrontier/videos",
+    "authority_tier": "C",
+    "perspective": "data center practitioners, project delivery, and industry events",
+    "independence_note": "Professional trade-media channel; interviews and event videos are attributed perspectives rather than independent proof.",
+    "max_items": 4
+  },
+  {
+    "source_id": "us-proptech-youtube",
+    "publisher_id": "us-proptech-council",
+    "kind": "youtube",
+    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UC38RyIN16LkZbhq_AgCJqDw",
+    "channel_url": "https://www.youtube.com/@usproptech/videos",
+    "authority_tier": "C",
+    "perspective": "PropTech founders, practitioners, and commercial real estate adoption",
+    "independence_note": "Industry association channel; participant claims require corroboration and commercial-interest disclosure.",
+    "max_items": 2
+  },
+  {
+    "source_id": "cre-collaborative-youtube",
+    "publisher_id": "cre-collaborative",
+    "kind": "youtube",
+    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCYtablTGyQ0ikT7NkkM4dzw",
+    "channel_url": "https://www.youtube.com/channel/UCYtablTGyQ0ikT7NkkM4dzw/videos",
+    "authority_tier": "C",
+    "perspective": "Commercial real estate practitioner roundtable and AI adoption",
+    "independence_note": "Practitioner program; participants' views are attributed and factual claims require independent support.",
+    "max_items": 2
+  },
+  {
+    "source_id": "plot-youtube",
+    "publisher_id": "plot",
+    "kind": "youtube",
+    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCxkZzuQRpGKewHgTDsLchhw",
+    "channel_url": "https://www.youtube.com/channel/UCxkZzuQRpGKewHgTDsLchhw/videos",
+    "authority_tier": "D",
+    "perspective": "AI product demonstration for CRE data and deal workflows",
+    "independence_note": "Vendor demonstration; it can show product claims and workflow design but does not prove efficacy or market adoption.",
+    "max_items": 2
+  },
+  {
+    "source_id": "ai-growth-partners-youtube",
+    "publisher_id": "ai-growth-partners",
+    "kind": "youtube",
+    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCe9etrYiOYhY-kkbNaAlwtg",
+    "channel_url": "https://www.youtube.com/channel/UCe9etrYiOYhY-kkbNaAlwtg/videos",
+    "authority_tier": "D",
+    "perspective": "Commercial AI and data-center investment commentary",
+    "independence_note": "Commercially interested commentary; use as an attributed claim and seek independent corroboration.",
+    "max_items": 2
+  },
+  {
+    "source_id": "kite-and-key-youtube",
+    "publisher_id": "kite-and-key-media",
+    "kind": "youtube",
+    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCeKUi6ko8MzYwBE2J74ulyQ",
+    "channel_url": "https://www.youtube.com/channel/UCeKUi6ko8MzYwBE2J74ulyQ/videos",
+    "authority_tier": "C",
+    "perspective": "Public-facing data-center energy and water explainer",
+    "independence_note": "Explainer-video perspective; verify numerical claims against primary records and independent reporting.",
+    "max_items": 2
+  },
+  {
+    "source_id": "dirt-to-data-podcast",
+    "publisher_id": "suhail-tayyeb",
+    "kind": "podcast",
+    "url": "https://anchor.fm/s/1165babc8/podcast/rss",
+    "authority_tier": "C",
+    "perspective": "real estate, power, infrastructure feasibility, and community consent",
+    "independence_note": "Practitioner-academic commentary; treat analytical frameworks as attributed interpretation.",
+    "max_items": 1
+  },
+  {
+    "source_id": "data-center-revolution-podcast",
+    "publisher_id": "overwatch-mission-critical",
+    "kind": "podcast",
+    "url": "https://anchor.fm/s/85887edc/podcast/rss",
+    "authority_tier": "C",
+    "perspective": "data center construction, engineering, workforce, and operations",
+    "independence_note": "Industry-produced interview show; guest and sponsor interests must remain visible.",
+    "max_items": 1
+  },
+  {
+    "source_id": "commercial-real-estate-show-podcast",
+    "publisher_id": "commercial-real-estate-show",
+    "kind": "podcast",
+    "url": "https://feed.podbean.com/commercialrealestateshow/feed.xml",
+    "authority_tier": "C",
+    "perspective": "commercial real estate investment, brokerage, development, and data centers",
+    "independence_note": "Practitioner interview program; guest claims are attributed and checked against independent or primary evidence.",
+    "max_items": 1
+  }
+]

@@ -1,0 +1,14 @@
+{
+  "stage": "summarize-run",
+  "status": "completed",
+  "input_count": null,
+  "output_count": 1,
+  "started_at": "2026-10-09T19:16:20Z",
+  "finished_at": "2026-10-09T19:16:20Z",
+  "tools_or_models": [
+    "python3"
+  ],
+  "cost_usd": 0.0,
+  "cost_is_estimate": false,
+  "errors": []
+}

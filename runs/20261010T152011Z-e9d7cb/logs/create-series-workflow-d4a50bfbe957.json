@@ -1,0 +1,15 @@
+{
+  "stage": "create-series-workflow",
+  "status": "completed",
+  "input_count": 38,
+  "output_count": 3,
+  "started_at": "2026-10-10T17:32:05Z",
+  "finished_at": "2026-10-10T17:34:07Z",
+  "tools_or_models": [
+    "bash",
+    "openai"
+  ],
+  "cost_usd": null,
+  "cost_is_estimate": false,
+  "errors": []
+}

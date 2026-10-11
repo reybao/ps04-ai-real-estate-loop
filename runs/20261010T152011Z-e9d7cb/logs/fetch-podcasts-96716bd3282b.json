@@ -1,0 +1,16 @@
+{
+  "stage": "fetch-podcasts",
+  "status": "completed",
+  "input_count": 3,
+  "output_count": 3,
+  "started_at": "2026-10-10T15:20:15Z",
+  "finished_at": "2026-10-10T15:20:16Z",
+  "tools_or_models": [
+    "python3",
+    "urllib",
+    "xml.etree"
+  ],
+  "cost_usd": 0.0,
+  "cost_is_estimate": false,
+  "errors": []
+}
