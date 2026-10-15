@@ -24,7 +24,7 @@ The three articles were published on Rey's Substack as web-only posts (without e
 | 2 | A Data-Center Site Is Not a Delivered AI Campus | [Substack](https://rey1241762.substack.com/p/a-data-center-site-is-not-a-delivered) | [YouTube (unlisted)](https://youtu.be/h0fmNizbPZE) |
 | 3 | AI Infrastructure’s Bottlenecks Are Not Just About Power | [Substack](https://rey1241762.substack.com/p/ai-infrastructures-bottlenecks-are) | [YouTube (unlisted)](https://youtu.be/d5w5KWDxfYk) |
 
-**Separate technical demonstration video:** Pending recording (the 4–6-minute systems demonstration is distinct from the three audience-facing videos).
+**Separate technical demonstration video:** [YouTube (unlisted)](https://www.youtube.com/watch?v=FLWnEudZL5I). This narrated systems walkthrough is distinct from the three audience-facing videos above.
 
 ### Video production handoff
 
