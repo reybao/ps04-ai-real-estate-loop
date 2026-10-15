@@ -2,6 +2,8 @@
 
 This is the entry point for the project and its published series. The unchanged course instructions and required contracts are in [README.md](README.md) and [ARCHITECTURE.md](ARCHITECTURE.md).
 
+**Technical demonstration video (unlisted):** [Watch the narrated systems walkthrough on YouTube](https://www.youtube.com/watch?v=FLWnEudZL5I). This is separate from the three audience-facing videos below.
+
 **Student:** Rey Bao
 **GitHub repository:** https://github.com/reybao/ps04-ai-real-estate-loop
 
@@ -23,8 +25,6 @@ The three articles were published on Rey's Substack as web-only posts (without e
 | 1 | From AI Pilots to Property Operations: The Hard Part Is Making It Work | [Substack](https://rey1241762.substack.com/p/from-ai-pilots-to-property-operations) | [YouTube (unlisted)](https://youtu.be/VRRoPB0pCTU) |
 | 2 | A Data-Center Site Is Not a Delivered AI Campus | [Substack](https://rey1241762.substack.com/p/a-data-center-site-is-not-a-delivered) | [YouTube (unlisted)](https://youtu.be/h0fmNizbPZE) |
 | 3 | AI Infrastructure’s Bottlenecks Are Not Just About Power | [Substack](https://rey1241762.substack.com/p/ai-infrastructures-bottlenecks-are) | [YouTube (unlisted)](https://youtu.be/d5w5KWDxfYk) |
-
-**Separate technical demonstration video:** [YouTube (unlisted)](https://www.youtube.com/watch?v=FLWnEudZL5I). This narrated systems walkthrough is distinct from the three audience-facing videos above.
 
 ### Video production handoff
 
